@@ -1,0 +1,49 @@
+{
+  "cities": [
+    {
+      "city": "Manali",
+      "state": "Himachal Pradesh",
+      "avgHotelPerNight": 2000,
+      "avgFoodPerDay": 700,
+      "petrolPerKm": 4.5,
+      "topSpots": [
+        {"name":"Solang Valley","type":"Adventure","rating":4.8},
+        {"name":"Rohtang Pass","type":"Adventure","rating":4.9}
+      ],
+      "reviews": [
+        {"user":"Raj","text":"Thand mein mast vibes, par bheed bhi mil jati hai.","rating":5},
+        {"user":"Geeta","text":"Paragliding zabardast!","rating":5}
+      ]
+    },
+    {
+      "city": "Goa",
+      "state": "Goa",
+      "avgHotelPerNight": 3000,
+      "avgFoodPerDay": 900,
+      "petrolPerKm": 4.0,
+      "topSpots": [
+        {"name":"Baga Beach","type":"Relaxation","rating":4.6},
+        {"name":"Anjuna","type":"Party","rating":4.4}
+      ],
+      "reviews": [
+        {"user":"Amit","text":"Party full on, pocket halka ho jata.","rating":4},
+        {"user":"Pooja","text":"Beach sunset lajawab!","rating":5}
+      ]
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "avgHotelPerNight": 2500,
+      "avgFoodPerDay": 800,
+      "petrolPerKm": 3.5,
+      "topSpots": [
+        {"name":"Marine Drive","type":"Sightseeing","rating":4.7},
+        {"name":"Sanjay Gandhi National Park","type":"Adventure","rating":4.5}
+      ],
+      "reviews": [
+        {"user":"Vikram","text":"City full on hustle, par food kamaal ka.","rating":4},
+        {"user":"Neha","text":"Elephanta caves mast history.","rating":4}
+      ]
+    }
+  ]
+}
